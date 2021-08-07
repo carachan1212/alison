@@ -1,0 +1,15 @@
+video source https://www.youtube.com/watch?v=X85dGZu29Qg
+Guide Here: https://www.youtube.com/redirect?redir_token=8kOZsU_ATA8O3wmir7ICQ-lE51Z8MTU4ODkxMTMxOUAxNTg4ODI0OTE5&v=X85dGZu29Qg&q=https%3A%2F%2Fblog.vpetkov.net%2F2019%2F07%2F12%2Fnetflix-and-spotify-on-a-raspberry-pi-4-with-latest-default-chromium%2F&event=video_description
+
+
+$ sudo su
+
+# cd /usr/lib/chromium-browser
+
+# wget http://blog.vpetkov.net/wp-content/up...
+
+# unzip libwidevinecdm.so_.zip && chmod 755 libwidevinecdm.so
+
+# wget http://blog.vpetkov.net/wp-content/up...
+
+# unzip chromeos-browser.desktop.zip && mv chromeos-browser.desktop /usr/share/applications
